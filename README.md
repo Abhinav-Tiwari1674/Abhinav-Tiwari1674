@@ -445,16 +445,6 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 ---
 
-➡️ **Part 3** will include:
-
-- 📊 GitHub Stats
-- 📈 Contribution Graph
-- 📋 Profile Summary Cards
-- 📊 Contribution Metrics
-- 💬 Random Dev Quote
-- 👀 Visitor Counter
-- ⭐ Footer
-
 <!-- =============================== -->
 <!--      GITHUB ANALYTICS           -->
 <!-- =============================== -->
@@ -463,14 +453,9 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav-tiwari1674&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Tiwari1674&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-[Open GitHub stats image in new tab](https://github-readme-stats.vercel.app/api?username=abhinav-tiwari1674&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-tiwari1674&layout=compact&theme=tokyonight&hide_border=true)
-
-[Open Top languages image in new tab](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-tiwari1674&layout=compact&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Tiwari1674&layout=compact&theme=tokyonight&hide_border=true)
 
 </p>
 
@@ -480,9 +465,7 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-tiwari1674&theme=tokyo-night&hide_border=true)
-
-[Open Activity graph in new tab](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-tiwari1674&theme=tokyo-night&hide_border=true)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-Tiwari1674&theme=tokyo-night&hide_border=true)
 
 </p>
 
@@ -492,16 +475,14 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinav-tiwari1674&theme=tokyonight)
-
-[Open Profile details in new tab](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinav-tiwari1674&theme=tokyonight)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-Tiwari1674&theme=tokyonight)
 
 </p>
 
 <p align="center">
 
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinav-tiwari1674&theme=tokyonight)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav-Tiwari1674&theme=tokyonight)
 
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinav-tiwari1674&theme=tokyonight)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinav-Tiwari1674&theme=tokyonight)
 
 </p>
