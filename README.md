@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 💫 About Me:
 🚀 Building software that is **scalable, reliable, and impactful**.<br>💻 Full Stack Developer specializing in **React.js, Node.js, Express.js, MongoDB, JavaScript, Java, and SQL**.<br>🧠 Constantly improving through **Data Structures & Algorithms, System Design, and Backend Engineering**.<br>🌱 Currently exploring **Cloud Computing, Distributed Systems, and Software Architecture**.<br>👯 Open to collaborating on **innovative products, startups, and open-source projects**.<br>🤝 Passionate about writing clean code, solving complex problems, and delivering great user experiences.<br>💬 Ask me about **MERN Stack, REST APIs, Authentication, Databases, and Problem Solving**.<br>🎯 Aspiring **Software Development Engineer** focused on building products used by millions.<br>⚡ *Code. Learn. Build. Repeat.*
 
