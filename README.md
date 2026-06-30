@@ -466,9 +466,14 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Tiwari1674&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav-tiwari1674&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Tiwari1674&layout=compact&theme=tokyonight&hide_border=true)
+[Open GitHub stats image in new tab](https://github-readme-stats.vercel.app/api?username=abhinav-tiwari1674&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-tiwari1674&layout=compact&theme=tokyonight&hide_border=true)
+
+[Open Top languages image in new tab](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-tiwari1674&layout=compact&theme=tokyonight&hide_border=true)
 
 </p>
 
@@ -478,7 +483,9 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abhinav-Tiwari1674&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abhinav-tiwari1674&theme=tokyonight&hide_border=true)
+
+[Open GitHub Streak image in new tab](https://nirzak-streak-stats.vercel.app/?user=abhinav-tiwari1674&theme=tokyonight&hide_border=true)
 
 </p>
 
@@ -488,7 +495,9 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-Tiwari1674&theme=tokyo-night&hide_border=true)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-tiwari1674&theme=tokyo-night&hide_border=true)
+
+[Open Activity graph in new tab](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-tiwari1674&theme=tokyo-night&hide_border=true)
 
 </p>
 
@@ -498,7 +507,9 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhinav-Tiwari1674&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhinav-tiwari1674&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+[Open GitHub Trophies in new tab](https://github-profile-trophy.vercel.app/?username=abhinav-tiwari1674&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 </p>
 
@@ -508,160 +519,14 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-Tiwari1674&theme=tokyonight"/>
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinav-tiwari1674&theme=tokyonight)
+
+[Open Profile details in new tab](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinav-tiwari1674&theme=tokyonight)
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav-Tiwari1674&theme=tokyonight"/>
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinav-tiwari1674&theme=tokyonight)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinav-Tiwari1674&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinav-Tiwari1674&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhinav-Tiwari1674&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 📈 Contribution Statistics
-
-<p align="center">
-
-![Contribution statistics](https://github-contributor-stats.vercel.app/api?username=Abhinav-Tiwari1674&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</p>
-
----
-
-# ⚡ GitHub Metrics
-
-<p align="center">
-
-![GitHub Metrics](https://metrics.lecoq.io/Abhinav-Tiwari1674?template=classic&languages=1&achievements=1)
-
-</p>
-
----
-
-# 💻 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins ███████████░░░░░ 45%
-Java         08 hrs 40 mins ████████░░░░░░░░ 31%
-React        03 hrs 10 mins ██░░░░░░░░░░░░░░ 11%
-MongoDB      02 hrs 00 mins █░░░░░░░░░░░░░░░ 07%
-Other        01 hrs 20 mins ░░░░░░░░░░░░░░░░ 06%
-```
-<!--END_SECTION:waka-->
-
-> **Note:** WakaTime section updates only if you connect a WakaTime account.
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💬 Random Developer Quote
-
-<p align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</p>
-
----
-
-# 😂 Random Dev Joke
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎵 Spotify (Optional)
-
-> Connect Spotify later using GitHub Actions.
-
----
-
-# ☕ Support My Work
-
-<p align="center">
-
-<a href="https://github.com/Abhinav-Tiwari1674">
-<img src="https://img.shields.io/badge/⭐_Star_My_Repositories-black?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 🌍 Let's Connect
-
-<p align="center">
-
-<a href="mailto:abhinav.tiwari1674@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/abhinav-tiwari-2558292ab">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Abhinav-Tiwari1674">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/abhinav_tiwari1674/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Abhinav-Tiwari1674&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💖 Thanks for Visiting!
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
-
-</p>
-
-<p align="center">
-
-### ⭐ If you like my work, don't forget to star my repositories!
-
-**"First, solve the problem. Then, write the code." – John Johnson**
-
-🚀 **Code • Learn • Build • Repeat**
-
-</p>
+{
