@@ -466,9 +466,9 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinav-Tiwari1674&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Tiwari1674&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Tiwari1674&layout=compact&theme=tokyonight&hide_border=true"/>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Tiwari1674&layout=compact&theme=tokyonight&hide_border=true)
 
 </p>
 
@@ -478,7 +478,7 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Abhinav-Tiwari1674&theme=tokyonight&hide_border=true"/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abhinav-Tiwari1674&theme=tokyonight&hide_border=true)
 
 </p>
 
@@ -488,7 +488,7 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-Tiwari1674&theme=tokyo-night&hide_border=true"/>
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-Tiwari1674&theme=tokyo-night&hide_border=true)
 
 </p>
 
@@ -534,7 +534,7 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Abhinav-Tiwari1674&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+![Contribution statistics](https://github-contributor-stats.vercel.app/api?username=Abhinav-Tiwari1674&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </p>
 
@@ -544,7 +544,7 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 <p align="center">
 
-<img src="https://metrics.lecoq.io/Abhinav-Tiwari1674?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&followup=1&people=1&repositories=100&config.timezone=Asia%2FKolkata"/>
+![GitHub Metrics](https://metrics.lecoq.io/Abhinav-Tiwari1674?template=classic&languages=1&achievements=1)
 
 </p>
 
@@ -552,7 +552,8 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 # 💻 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->text
+<!--START_SECTION:waka-->
+```text
 JavaScript   12 hrs 30 mins ███████████░░░░░ 45%
 Java         08 hrs 40 mins ████████░░░░░░░░ 31%
 React        03 hrs 10 mins ██░░░░░░░░░░░░░░ 11%
