@@ -448,10 +448,7 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 ➡️ **Part 3** will include:
 
 - 📊 GitHub Stats
-- 🔥 GitHub Streak
-- 📈 Activity Graph
-- 🐍 Contribution Snake
-- 🏆 GitHub Trophies
+- 📈 Contribution Graph
 - 📋 Profile Summary Cards
 - 📊 Contribution Metrics
 - 💬 Random Dev Quote
@@ -479,18 +476,6 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abhinav-tiwari1674&theme=tokyonight&hide_border=true)
-
-[Open GitHub Streak image in new tab](https://nirzak-streak-stats.vercel.app/?user=abhinav-tiwari1674&theme=tokyonight&hide_border=true)
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -498,18 +483,6 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-tiwari1674&theme=tokyo-night&hide_border=true)
 
 [Open Activity graph in new tab](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-tiwari1674&theme=tokyo-night&hide_border=true)
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhinav-tiwari1674&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
-
-[Open GitHub Trophies in new tab](https://github-profile-trophy.vercel.app/?username=abhinav-tiwari1674&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 </p>
 
@@ -529,4 +502,6 @@ I aspire to become a highly skilled **Software Development Engineer** focused on
 
 ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinav-tiwari1674&theme=tokyonight)
 
-{
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinav-tiwari1674&theme=tokyonight)
+
+</p>
