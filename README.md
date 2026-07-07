@@ -9,7 +9,7 @@ Full Stack MERN Developer • Software Development Engineer (Aspiring) • Probl
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Backend+Enthusiast;300%2B+DSA+Problems+Solved;Always+Learning+New+Technologies;Future+Software+Development+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Backend+Enthusiast;300%2B+DSA+Problems+Solved;Always+Learning+New+Technologies;Software+Development+Engineer" />
 </p>
 
 
